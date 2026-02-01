@@ -125,7 +125,8 @@ Usar tom educativo e linguagem acessível, em português.
 
 ## 📸 Demonstração
 
-Prints e vídeos das interações com IA disponíveis na pasta `/docs`.
+![Telas do App](docs/Telas.png)
+
 
 ---
 
